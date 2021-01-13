@@ -66,3 +66,19 @@ body {
   bottom: 0px;
   z-index: 1;
 }
+
+.modal-title {
+  color: floralwhite;
+}
+
+.modal-header {
+  background-color: #512dab;
+}
+
+.modal-content {
+  background-color: #d1c4e9;
+}
+
+.close {
+  color: floralwhite;
+}
